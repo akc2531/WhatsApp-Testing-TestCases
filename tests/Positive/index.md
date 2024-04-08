@@ -1,5 +1,3 @@
-In the index.md files, you'll want to provide a structured overview of the test cases included in each category. Here's an example of what you could include in the index.md file for both positive and negative test cases:
-
 ### Positive Test Cases Index
 
 Welcome to the index of positive test cases for the WhatsApp messaging application. Below, you'll find a list of test cases categorized by their focus areas, ensuring a comprehensive evaluation of WhatsApp's functionality, usability, and performance.
@@ -28,9 +26,3 @@ Welcome to the index of positive test cases for the WhatsApp messaging applicati
 - [Security and Compatibility Testing](security_and_compatibility_testing.md)
 
 Feel free to explore each test case for detailed descriptions, steps, and expected results.
-
-Feel free to explore each test case for detailed descriptions, steps, and expected results.
-
----
-
-In these index files, you're essentially providing a roadmap for users to navigate through the test cases in each category. Each test case is linked to its respective markdown file where users can find detailed information about the test scenario, steps to execute, and expected outcomes.
